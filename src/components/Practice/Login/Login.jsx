@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./Login.css";
+// import "./Login.css";
 
 const API_URL = "http://localhost:8080/auth/signup";
 
